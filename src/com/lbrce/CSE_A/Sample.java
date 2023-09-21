@@ -6,7 +6,14 @@ public class Sample {
 		// TODO Auto-generated method stub
 
 	}
+//20761A0552
 	public static void Geethika() {
           System.out.println("This is team member Geethika.");
+	public static void nazzu() {
+		// TODO Auto-generated method stub
+		System.out.println("This is Teammate NAZMA");
+
+	}
+master
 }
 }
