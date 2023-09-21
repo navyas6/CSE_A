@@ -6,9 +6,15 @@ public class Sample {
 		// TODO Auto-generated method stub
 
 	}
+// 20761A0529
+	public static void deepthi() {
+		// TODO Auto-generated method stub
+		System.out.println("This is deepthi");
+}
 	public static void nazzu() {
 		// TODO Auto-generated method stub
 		System.out.println("This is Teammate NAZMA");
+master
 
 	}
 
