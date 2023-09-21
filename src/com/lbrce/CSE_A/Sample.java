@@ -6,5 +6,10 @@ public class Sample {
 		// TODO Auto-generated method stub
 
 	}
+	public static void nazzu() {
+		// TODO Auto-generated method stub
+		System.out.println("This is Teammate NAZMA");
+
+	}
 
 }
