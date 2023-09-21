@@ -6,5 +6,7 @@ public class Sample {
 		// TODO Auto-generated method stub
 
 	}
-
+	public static void Geethika() {
+          System.out.println("This is team member Geethika.");
+}
 }
